@@ -1,0 +1,5 @@
+{
+  "name": "Fi-AI Personal Finance Advisor",
+  "description": "An AI-powered agent that consumes structured financial data to deliver deeply personalized financial insights to users in a secure, private, and intelligent way.",
+  "requestFramePermissions": []
+}
