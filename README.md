@@ -2,6 +2,57 @@
 
 A modern, interactive personal finance management application powered by Google's Gemini AI. Get intelligent insights, visualize your financial data, and receive personalized financial advice through an intuitive chat interface.
 
+
+
+<img width="1919" height="1057" alt="Screenshot 2025-07-10 202444" src="https://github.com/user-attachments/assets/6715576e-eb1a-474e-bf64-5daf6ab38163" />
+
+<img width="1916" height="1073" alt="Screenshot 2025-07-10 202644" src="https://github.com/user-attachments/assets/edb79a64-7173-45f7-987f-b88ccfb456e6" />
+
+<img width="1919" height="1064" alt="Screenshot 2025-07-10 201217" src="https://github.com/user-attachments/assets/f494a77a-22d9-48c9-956a-e1881ddef15c" />
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 202743" src="https://github.com/user-attachments/assets/66bf6dfa-aae6-4eff-a6f3-de5d4a8c2795" />
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 201243" src="https://github.com/user-attachments/assets/3e07f96f-fa6e-4a68-a331-4f4103aea659" />
+
+<img width="1919" height="1075" alt="Screenshot 2025-07-10 201148" src="https://github.com/user-attachments/assets/6da45808-642c-4a7a-ad79-35cbe573eff6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![React](https://img.shields.io/badge/React-19.1-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6)
@@ -96,4 +147,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ 
+Made with ❤️   Cosmics coders
