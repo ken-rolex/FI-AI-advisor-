@@ -3,6 +3,12 @@
 A modern, interactive personal finance management application powered by Google's Gemini AI. Get intelligent insights, visualize your financial data, and receive personalized financial advice through an intuitive chat interface.
 
 
+## 📺 Latest YouTube Video
+
+[![Watch Demo](https://img.youtube.com/vi/TG2AWzsnKm4/hqdefault.jpg)](https://www.youtube.com/watch?v=TG2AWzsnKm4)
+
+🔗 [Click to watch demo ](https://www.youtube.com/watch?v=TG2AWzsnKm4)
+
 
 <img width="1919" height="1057" alt="Screenshot 2025-07-10 202444" src="https://github.com/user-attachments/assets/6715576e-eb1a-474e-bf64-5daf6ab38163" />
 
